@@ -1,1 +1,3 @@
-console.log('This would be the main JS file.');
+window.addEventListener("DOMContentLoaded", function() {
+    window.location = "shuklasannidhya.github.io";
+}, false);
